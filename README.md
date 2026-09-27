@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @hasukiii13
-- 👀 I’m interested in C++, C, and R...
-- 🌱 I’m currently learning how to create a public website...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/his...
-- ⚡ Fun fact: I'm 22
+Hi 👋, I’m hasuki
 
-<!---
-hasukiii13/hasukiii13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 UI/UX developer | 🤖 AI-assisted developer | 📒 Life-long learner
+
+
